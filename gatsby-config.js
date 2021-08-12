@@ -50,8 +50,6 @@ module.exports = {
       },
     },
     `gatsby-transformer-sharp`,   description: `আমি ইশতিয়াক,একটি বাংলা ব্লগ।`,
-9
- 
     `gatsby-plugin-sharp`,
     // {
     //   resolve: `gatsby-plugin-google-analytics`,
