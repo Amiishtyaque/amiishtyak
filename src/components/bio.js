@@ -46,8 +46,8 @@ const Bio = () => {
         <p>
           <strong>{author.name}</strong> ({author?.summary || null})
           {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
+          <a href={`mailto:${social?.email || ``}`}>
+            মতামত, যোগাযোগ কিংবা অভিযোগ 
           </a>
         </p>
       )}
