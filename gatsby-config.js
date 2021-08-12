@@ -5,10 +5,9 @@ module.exports = {
       name: `ইশতিয়াক`,
       summary: `অটোডিড্যাক্টস , স্বপ্ন যার রেনেসাঁন্স ম্যান `,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `আমি ইশতিয়াক,একটি বাংলা ব্লগ।`,
+    siteUrl: `https://ami-ishtyak.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
       email: `ishtyaak@protonmail.com`
     },
   },
@@ -50,7 +49,9 @@ module.exports = {
         ],
       },
     },
-    `gatsby-transformer-sharp`,
+    `gatsby-transformer-sharp`,   description: `আমি ইশতিয়াক,একটি বাংলা ব্লগ।`,
+9
+ 
     `gatsby-plugin-sharp`,
     // {
     //   resolve: `gatsby-plugin-google-analytics`,
@@ -119,7 +120,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/profile-pic.png`, // This path is relative to the root of the site.
+        icon: `src/images/circle-cropped.png, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
