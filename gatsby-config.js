@@ -3,7 +3,7 @@ module.exports = {
     title: `আমি ইশতিয়াক`,
     author: {
       name: `ইশতিয়াক`,
-      summary: `অটোডিড্যাক্টস , স্বপ্ন যার রেনেসাঁন্স ম্যান । `,
+      summary: `অটোডিড্যাক্টস , স্বপ্ন যার রেনেসাঁন্স ম্যান `,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
