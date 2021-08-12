@@ -3,13 +3,11 @@ module.exports = {
     title: `আমি ইশতিয়াক`,
     author: {
       name: `ইশতিয়াক`,
-      summary: `শখের লেখক , দর্শন প্রেমী আর শিল্প অনুরাগী ।`,
+      summary: `অটোডিড্যাক্টস , স্বপ্ন যার রেনেসাঁন্স ম্যান । `,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    
   },
   plugins: [
     `gatsby-plugin-image`,
